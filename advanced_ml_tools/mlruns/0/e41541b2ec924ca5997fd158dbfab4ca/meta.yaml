@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%20Z2/Downloads/ML_Advanced/11_advanced_ML_tools/11_Advanced_Tools_for_ML_Engineer/advanced_ml_tools/mlruns/0/e41541b2ec924ca5997fd158dbfab4ca/artifacts
+end_time: 1727787802949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e41541b2ec924ca5997fd158dbfab4ca
+run_name: bald-cow-300
+run_uuid: e41541b2ec924ca5997fd158dbfab4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727787792071
+status: 4
+tags: []
+user_id: HP Z2
