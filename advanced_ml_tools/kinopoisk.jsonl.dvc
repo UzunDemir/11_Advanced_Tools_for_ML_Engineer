@@ -1,0 +1,5 @@
+outs:
+- md5: 6118f2b486dd3870d09c34a6709a4b3e
+  size: 142508585
+  hash: md5
+  path: kinopoisk.jsonl
